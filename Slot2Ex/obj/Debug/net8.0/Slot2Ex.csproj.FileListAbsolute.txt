@@ -1,0 +1,14 @@
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\bin\Debug\net8.0\Slot2Ex.exe
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\bin\Debug\net8.0\Slot2Ex.deps.json
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\bin\Debug\net8.0\Slot2Ex.runtimeconfig.json
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\bin\Debug\net8.0\Slot2Ex.dll
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\bin\Debug\net8.0\Slot2Ex.pdb
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.AssemblyInfoInputs.cache
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.AssemblyInfo.cs
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.csproj.CoreCompileInputs.cache
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.dll
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\refint\Slot2Ex.dll
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.pdb
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\Slot2Ex.genruntimeconfig.cache
+D:\Khang\Ki5\PRN212\Slot2Ex\Slot2Ex\obj\Debug\net8.0\ref\Slot2Ex.dll
